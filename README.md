@@ -28,10 +28,9 @@ SkillPulse is an AI platform that connects each of your projects into a dynamic 
 #### Output1 - Skill Analysis
 ![alt text](img2.png)
 #### Output2 - Questions and Project ideas
-![ideas](<Screenshot 2025-11-22 145539.png>)
-
+![alt text](img3.png)
 #### Output3 - Mock interview
-![ai insights](<Screenshot 2025-11-22 145908.png>)
+![alt text](img4.png)
 
 ## Results and Impact
 SkillPulse transforms GitHub into an AI-driven personal learning brain, empowering developers to track their skill growth, generate project ideas, and prepare for interviews using their own code. By combining advanced AI with personalized insights, it fosters continuous learning, creativity, and career readiness. Aligned with key Sustainable Development Goals, SkillPulse  romotes inclusive education, innovation, and equitable opportunities, making it a valuable tool for developers seeking authentic growth in the evolving tech landscape.
