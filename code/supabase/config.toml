@@ -1,0 +1,7 @@
+project_id = "slkzngtabmspbvegypox"
+
+[functions.sync-github-repos]
+verify_jwt = true
+
+[functions.ask-code]
+verify_jwt = true
