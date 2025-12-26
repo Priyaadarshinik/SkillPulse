@@ -21,7 +21,7 @@ SkillPulse is an AI platform that connects each of your projects into a dynamic 
 
 ## System Architecture
 
-![alt text](image.png) 
+![alt text](archi.png)
 
 ## Output
 
